@@ -59,4 +59,5 @@ This project focuses on testing the core functionalities of the Amazon website u
 - Automation reduced manual effort and improved efficiency  
 - Gained hands-on experience in Selenium and TestNG  
 Author
+
 Nandhini G MCA
